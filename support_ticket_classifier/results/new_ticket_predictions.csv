@@ -1,0 +1,6 @@
+Ticket,Subject,Prediction,Final Routing,Confidence
+1,Charged twice for one order,Billing,Manual Review,38.69%
+2,VPN connection problem,Technical,Manual Review,46.15%
+3,Salary missing,HR,Manual Review,40.63%
+4,Office working hours,General,Manual Review,39.28%
+5,Employee portal login issue,Technical,Manual Review,42.17%

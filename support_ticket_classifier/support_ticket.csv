@@ -1,0 +1,81 @@
+subject,body,category
+"Incorrect invoice amount","The amount on my latest invoice is higher than expected.",Billing
+"Payment charged twice","I was charged twice for the same purchase on my account.",Billing
+"Refund not received","I requested a refund last week but the money has not arrived.",Billing
+"Payment failed","My card payment failed while trying to complete the transaction.",Billing
+"Unexpected charge","There is an unexpected charge on my account that I do not recognize.",Billing
+"Wrong subscription fee","I was charged the wrong amount for my monthly subscription.",Billing
+"Invoice missing","I have not received my invoice for this month.",Billing
+"Duplicate transaction","The same transaction appears twice on my bank statement.",Billing
+"Billing address change","I need to change the billing address on my account.",Billing
+"Credit card charged","My credit card was charged but the order was not completed.",Billing
+"Overcharged for service","The amount charged for the service is incorrect.",Billing
+"Payment confirmation","I made a payment but have not received a payment confirmation.",Billing
+"Refund status","Can you tell me the current status of my refund?",Billing
+"Wrong tax amount","The tax amount on my invoice appears to be incorrect.",Billing
+"Subscription cancellation charge","I was charged after cancelling my subscription.",Billing
+"Invoice correction","Please correct the incorrect amount shown on my invoice.",Billing
+"Payment receipt","I need a receipt for my recent payment.",Billing
+"Monthly bill question","I have a question about my monthly bill.",Billing
+"Failed bank transfer","My bank transfer failed but the amount was deducted.",Billing
+"Billing cycle","Can you explain when my next billing cycle starts?",Billing
+"Application crashing","The application crashes whenever I try to open it.",Technical
+"Cannot login","I cannot log into the employee portal with my correct password.",Technical
+"Laptop not working","My company laptop is not starting properly.",Technical
+"VPN connection issue","I cannot connect to the company VPN from my laptop.",Technical
+"Software installation","I am unable to install the required software on my computer.",Technical
+"Internet not working","The office internet connection is not working.",Technical
+"Password reset problem","The password reset link is not working.",Technical
+"Email not working","My company email is not sending or receiving messages.",Technical
+"Printer problem","The office printer is not responding to print requests.",Technical
+"System is slow","The employee management system is running very slowly.",Technical
+"Website error","I receive an error whenever I access the company website.",Technical
+"Login page error","The login page shows an error after I enter my credentials.",Technical
+"Computer freezing","My computer freezes frequently while I am working.",Technical
+"VPN disconnected","The VPN disconnects every few minutes.",Technical
+"Application update","The latest application update caused the software to stop working.",Technical
+"WiFi problem","My laptop cannot connect to the office WiFi.",Technical
+"Database error","The application shows a database connection error.",Technical
+"File access issue","I cannot open files stored on the company server.",Technical
+"Technical support","I need help troubleshooting an issue with the employee software.",Technical
+"System outage","The internal system appears to be unavailable.",Technical
+"Salary not credited","My salary for this month has not been credited to my bank account.",HR
+"Leave balance","Can you tell me how many leave days I have remaining?",HR
+"Payslip request","I need a copy of my latest payslip.",HR
+"PF deduction","I have a question about the PF deduction from my salary.",HR
+"Employee benefits","Can you provide information about employee benefits?",HR
+"Salary slip issue","There is an incorrect amount shown on my salary slip.",HR
+"Leave application","I would like to know how to apply for leave.",HR
+"Joining documents","Which documents are required for employee onboarding?",HR
+"Attendance correction","My attendance record for yesterday is incorrect.",HR
+"Employee ID card","I have not received my employee identification card.",HR
+"Performance review","When will the next employee performance review take place?",HR
+"Salary revision","I would like information about the salary revision process.",HR
+"Medical benefits","Can you explain the medical benefits available to employees?",HR
+"Holiday policy","Where can I find the employee holiday policy?",HR
+"Work from home request","What is the process for requesting work from home?",HR
+"Resignation process","Please provide information about the employee resignation process.",HR
+"Overtime policy","How is overtime calculated for employees?",HR
+"HR contact","Who should I contact regarding an employee-related issue?",HR
+"Promotion policy","Can you explain the company's promotion process?",HR
+"Training program","I would like information about available employee training programs.",HR
+"Office timings","What are the normal working hours for the office?",General
+"Company information","I would like some general information about the company.",General
+"Office location","Can you provide the address of the main office?",General
+"Contact information","Where can I find the company's contact information?",General
+"Company policy","Where can I read the general company policies?",General
+"Working hours","What time does the office open and close?",General
+"Meeting room booking","How can I book a meeting room?",General
+"Visitor information","What is the process for registering a visitor?",General
+"Office parking","Is parking available for employees at the office?",General
+"Company events","Are there any upcoming company events?",General
+"Office cafeteria","Can you tell me about the facilities available in the office cafeteria?",General
+"Business information","I would like more information about the company's services.",General
+"Office address","Please provide the office address and location details.",General
+"Employee handbook","Where can I find the general employee handbook?",General
+"Public holidays","Can you provide information about upcoming public holidays?",General
+"General inquiry","I have a general question about the organization.",General
+"Department information","Which departments are available in the organization?",General
+"Office facilities","What facilities are available at the office?",General
+"General assistance","I need some general assistance regarding company information.",General
+"Company communication","Where can I find important company announcements?",General
